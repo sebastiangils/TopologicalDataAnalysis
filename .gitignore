@@ -1,0 +1,15 @@
+# Archivos y directorios generados automáticamente
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Archivos de registro y de salida
+*.log
+*.out
+
+# Archivos de caché y configuración de Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_meta/
+
