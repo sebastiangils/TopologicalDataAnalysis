@@ -1,0 +1,1 @@
+Acá se almacenaran los resultados intermedio y finales, probablemente haya que crear carpetas
