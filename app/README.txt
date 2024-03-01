@@ -1,0 +1,1 @@
+Se supone que en esta carpeta iran todo lo que se haga con Shiny
